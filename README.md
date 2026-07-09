@@ -72,6 +72,6 @@ it140_m0_activity_name/
 
 ### Additional Resources
 
-- [Kaggle Notebook]({{Add link or delete}})
+- [VS Code for EDU]({{Add link or delete}})
 - [YouTube Video]({{Add link or delete}})
 - [Zotero Collection]({{Add link or delete}})
