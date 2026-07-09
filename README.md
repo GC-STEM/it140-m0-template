@@ -1,8 +1,8 @@
-# {{CS 000}} Module {{ModNumber}}: {{Full Activity Title}}
+# IT 140 Module {{ModNumber}}: {{Full Activity Title}}
 
 <!-- To see this file in a clean, formatted view, right-click on the filename and choose “Open Preview.” -->
 
-- **Course**: {{CS 000}} - {{Course Title}}
+- **Course**: IT 140 - *Introduction to Scripting*
 - **Activity**: {{ModNum}}-{{ActNum}}: {{ActivityTitle}}
 - **Program Name**: {{Program-Name}}
 
@@ -33,7 +33,7 @@ The following resources may help support your work on the project:
 The activity repository is organized to match the courseSoftware Development Life Cycle (SDLC). This structure will help you organize your work and ensure that you are following the SDLC process effectively. Each folder contains specific files related to that phase of the SDLC, as outlined below:
 
 ```text
-cs000_00_activity_name/
+it140_m0_activity_name/
 │
 ├── analysis/                   # 1. Analysis: understand the problem
 │   ├── activity_name_sdw.md    # Software Development Worksheet (SDW) to plan your work
@@ -64,12 +64,11 @@ cs000_00_activity_name/
 | 2 | Programming Language   | PL Runtime               |
 | 3 | Code Editor or IDE     | Visual Studio Code       |
 |---| **CE/IDE Extensions**  | ------------------------ |
-| 4 | Language Support       | {{PL Extension}}         |
-| 5 | Code Linter/Formatter  | {{L/F Extension}}        |
+| 4 | Language Support       | ms-python.python         |
+| 5 | Code Linter/Formatter  | charliermarsh.ruff       |
 | 6 | Diagram Support        | hediet.vscode-drawio     |
 | 7 | Pseudocode Support     | i2p-hub.i2p-pseudo       |
 | 8 | Code Spell Checker     | streetsidesoftware.code-spell-checker |
-| 9 | Dependencies           | See {{requirements.txt}} |
 
 ### Additional Resources
 
